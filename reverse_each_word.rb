@@ -1,3 +1,5 @@
 def reverse_each_word(string)
-  return string
+  new_array = []
+  new_array.push(string)
+  return new_array
 end
